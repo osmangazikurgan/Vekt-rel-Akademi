@@ -1,0 +1,7 @@
+d = open("rehber.txt") 
+okunan = d.read(5) 
+print(type(okunan))
+print(okunan)
+# d.seek(2)
+print(type(okunan))
+print(d.read(4))

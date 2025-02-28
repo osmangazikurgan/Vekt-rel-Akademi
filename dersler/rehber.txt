@@ -1,0 +1,4 @@
+Erdinç|887
+Muhammed|745
+Osman|547fhghghhgh& C:/Users/Vektorel/AppData/Local/Programs/Python/Python313/python.exe "d:/erdincdonmez/Ders uygulamalarý/h4_3 dosya islemleri/rehber_proje_ornek.py"|& C:/Users/Vektorel/AppData/Local/Programs/Python/Python313/python.exe "d:/erdincdonmez/Ders uygulamalarý/h4_3 dosya islemleri/dosyalar4 dosyadan okuma readlines"
+& C:/Users/Vektorel/AppData/Local/Programs/Python/Python313/python.exe "d:/erdincdonmez/Ders uygulamalarý/h4_3 dosya islemleri/dosyalar4 dosyadan okuma readlines"|& C:/Users/Vektorel/AppData/Local/Programs/Python/Python313/python.exe "d:/erdincdonmez/Ders uygulamalarý/h4_3 dosya islemleri/dosyalar4 dosyadan okuma readlines"
